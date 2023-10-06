@@ -12,6 +12,9 @@
 
 Syncopsta bekommt den award für den schrägsten [issue](https://github.com/codeoverflow-org/nodecg-io/issues/157) in einem Projekt an dem ich beteiligt war aller Zeiten 
 
+[CVE-2022-35908](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35908)
+
+A security vulnerability in Cambium Networks access points allows authenticated attackers to gain root access.
 <!--
 **syncopsta/syncopsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
